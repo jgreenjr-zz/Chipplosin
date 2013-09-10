@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="783ac32f-7e86-40f5-85c5-1ff17113930b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Engine/Engine.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Engine/src/main/java/com/FutureCorp/Chipplosion/Engine/MainBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Engine/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chipplosion/build/source/buildConfig/debug/com/FutureCorp/Chipplosion/UI/BuildConfig.java" afterPath="$PROJECT_DIR$/Chipplosion/build/source/buildConfig/debug/com/FutureCorp/Chipplosion/UI/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chipplosion/build/source/r/debug/com/FutureCorp/Chipplosion/UI/R.java" afterPath="$PROJECT_DIR$/Chipplosion/build/source/r/debug/com/FutureCorp/Chipplosion/UI/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chipplosion/build/res/all/debug/layout/activity_mainmenu.xml" afterPath="$PROJECT_DIR$/Chipplosion/build/res/all/debug/layout/activity_mainmenu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Engine.Tests/Engine.Tests.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Engine.Tests/src/main/java/com/FutureCorp/Chipplosin/Engine/Tests/MainBoadTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Engine.Tests/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chipplosion/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/Chipplosion/build/res/all/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chipplosion/build/res/all/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/Chipplosion/build/res/all/debug/values-v11/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chipplosion/build/res/all/debug/values-v14/values.xml" afterPath="$PROJECT_DIR$/Chipplosion/build/res/all/debug/values-v14/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Chipplosion.iws" />
@@ -78,10 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainBoard.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainBoard.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Engine/src/main/java/com/FutureCorp/Chipplosion/Engine/MainBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="57" selection-end="57" vertical-scroll-proportion="0.062271062" vertical-offset="0" max-vertical-offset="546">
+            <state line="2" column="24" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainBoadTests.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Engine.Tests/src/main/java/com/FutureCorp/Chipplosin/Engine/Tests/MainBoadTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.124542125" vertical-offset="0" max-vertical-offset="546">
               <folding />
             </state>
           </provider>
@@ -121,6 +128,10 @@
               <ExternalProjectPojo>
                 <option name="name" value="Chipplosion" />
                 <option name="path" value="$PROJECT_DIR$/Chipplosion" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Engine.Tests" />
+                <option name="path" value="$PROJECT_DIR$/Engine.Tests" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value="Engine" />
@@ -185,6 +196,50 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ChipplosionProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chipplosion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChipplosionProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Engine.Tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chipplosion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChipplosionProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Engine.Tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -501,6 +556,11 @@
       <created>1378791860184</created>
       <updated>1378791860184</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding Engine Project">
+      <created>1378832830787</created>
+      <updated>1378832830787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -575,7 +635,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Engine Project" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -589,6 +649,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Adding Engine Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -596,7 +657,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Engine/src/main/java/com/FutureCorp/Chipplosion/Engine/MainBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="57" selection-end="57" vertical-scroll-proportion="0.062271062" vertical-offset="0" max-vertical-offset="546">
+        <state line="2" column="24" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Engine.Tests/src/main/java/com/FutureCorp/Chipplosin/Engine/Tests/MainBoadTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.124542125" vertical-offset="0" max-vertical-offset="546">
           <folding />
         </state>
       </provider>

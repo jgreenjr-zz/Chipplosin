@@ -1,1 +1,1 @@
-include ':Chipplosion', ':Engine'
+include ':Chipplosion', ':Engine', ':Engine.Tests'

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Chipplosion/Chipplosion.iml" filepath="$PROJECT_DIR$/Chipplosion/Chipplosion.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChipplosionProject.iml" filepath="$PROJECT_DIR$/ChipplosionProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Engine/Engine.iml" filepath="$PROJECT_DIR$/Engine/Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Engine.Tests/Engine.Tests.iml" filepath="$PROJECT_DIR$/Engine.Tests/Engine.Tests.iml" />
     </modules>
   </component>
 </project>
